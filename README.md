@@ -1,1 +1,1 @@
-# buddi.ai-assignment
+# assignment
